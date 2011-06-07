@@ -1,0 +1,11 @@
+06-06-2011: Version 2 (BETA)
+		Arquivos que estão sendo executados podem ser excluidos.
+
+06-06-2011: Version 2 (ALPHA)
+		Corrigido os arquivos .H (Headers) : Havia falta de cabeçalho.
+
+06-06-2011: Version 0.1.1
+		Correção na Captura de Argumentos (Bug 00001).
+
+05-06-2011: Version 0.1
+		Desenvolvimento inicial do projeto.
